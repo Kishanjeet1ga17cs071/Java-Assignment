@@ -99,38 +99,10 @@ public class FlowerDemo {
 	  
 	   display(p);
 	   
-	   
-	
-	
-
-	   
-	 
-	 
-	   
-	   
-	   
-	   
-		 
-	   
-	
 	  
-	  
-	
-	
 	}
 
 
-
-
-
-	
-
-
-
-	
-
-
-	
 	
 
 }
